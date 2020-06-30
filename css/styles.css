@@ -1,0 +1,38 @@
+body {
+   background-color: #F8F7EF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width:15%;
+}
+
+img {
+  height: 250px;
+}
+
+h1 {
+  color: #3E3E47;
+}
+
+h3 {
+  color: #3E3E47;
+}
+
+/*Nieodwiedzony lik*/
+a:link {
+  color:blue;
+}
+
+/*Odwiedzony link*/
+a:visited {
+  color:blue;
+}
+
+/*Link po najechaniu kursorem*/
+a:hover {
+  color:grey;
+}
